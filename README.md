@@ -1,5 +1,5 @@
 # JavaScript-custom-tracking-cookie
- UTM, GTM, Showit, Typeform
+ JavaScript, Cookie, UTM, GTM, Showit, Typeform
 
 ## Project URL
 https://merakisalonandextensions.com/request-an-appointment
